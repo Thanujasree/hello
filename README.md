@@ -4,4 +4,5 @@ this is my first program
 void main(){
 printf("helloworld");
 printf("my name is tanuj");
+printf("it is beautiful");
 }
